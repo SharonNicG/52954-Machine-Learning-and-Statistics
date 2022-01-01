@@ -1,7 +1,7 @@
 # Machine Learning and Statistics Assessment
 
 
-![image](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/Images/Twisted%20Doodles.png) 
+![image](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/Images/C_Twisted_Doodles.png) 
 <br>
 
 ## Project Description
@@ -144,7 +144,9 @@ Binder hosts Jupyter Notebooks online, allowing users to still interact with the
 <br>
 
 ## Credits
-As with so many of my projects, I have relied upon the faithful users of [StackOverflow](https://stackoverflow.com/). Where relevant, StackOverflow pages are cited in the reference section of the notebooks. But for resolutions to minor issues (that may have derailed me for hours) and for the comfort in knowing someone else has made the same mistake, I thank them. 
+ - Statiics Illustration <a href="https://twitter.com/twisteddoodles">Twisted Doodles</a> at <a href="https://twitter.com/twisteddoodles/status/960801583012380672">twitter.com/twisteddoodles/</a>.
+ - Boston landscape photo <a href="https://unsplash.com/@michaelwb?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Browning</a> on <a href="https://unsplash.com/s/photos/boston?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
+ - As with so many of my projects, I have relied upon the faithful users of [StackOverflow](https://stackoverflow.com/). Where relevant, StackOverflow pages are cited in the reference section of the notebooks. But for resolutions to minor issues (that may have derailed me for hours) and for the comfort in knowing someone else has made the same mistake, I thank them. 
 <br>
 
 ## References
