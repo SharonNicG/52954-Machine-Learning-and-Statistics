@@ -19,6 +19,7 @@ This repository comprises two Jupyter Notebooks and the associated files require
  - [Files](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/assessment.pdf) - contains a pdf of the assessments requirements and marking scheme
 <br>
 <br>
+
 ***
 
 ## [scikit-learn notebook](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scikit-learn.ipynb)
@@ -89,6 +90,7 @@ The packages used in this repository (detailed below) are all part of the Anacon
  - Matplotlib - Available via https://anaconda.org/anaconda/matplotlib or https://matplotlib.org/
  - Pandas - Available via https://anaconda.org/anaconda/pandas or https://pandas.pydata.org/
 <br>
+
 ***
 
 ## Accessing and Running the Jupyter Notebooks
