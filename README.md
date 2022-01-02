@@ -4,9 +4,6 @@
   <img src="https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/Images/C_Twisted_Doodles.png" />
 </p>
 
-![image](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/Images/C_Twisted_Doodles.png) 
-<br>
-
 ## Project Description
 This repository comprises two Jupyter Notebooks and the associated files required for Machine Learning and Statistics Assessment for Winter 21/22. This module (52954) is part of the [Higher Diploma in Science in Computing in Data Analytics](https://www.gmit.ie/higher-diploma-in-science-in-computing-in-data-analytics). Full details of the assessment are available [here](assessment.pdf).
 <br>
@@ -19,7 +16,7 @@ This repository comprises two Jupyter Notebooks and the associated files require
  - [requirements.txt](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/requirements.txt) - containing information of the libraries, modules, packages and files needed to run the Jupyter notebooks with minimal configuration
  - [Data](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/tree/main/Data) - contains the [Housing dataset](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/Data/housing.csv) used for the [scikit-learn notebook](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scikit-learn.ipynb) and the [Diet dataset](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/Data/Diet.csv) used for the [scipy-stats notebook](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scipy-stats.ipynb).
  - [Images](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/tree/main/Images) -  Contains the images used here and in the two Jupyter Notebooks. 
- - [Files](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/assessment.pdf) - contains a pdf of the assessment's requirements and marking scheme.
+ - [Files](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/assessment.pdf) - contains a pdf of the assessment requirements and marking scheme.
 <br>
 
 ***
@@ -133,15 +130,21 @@ The above steps should allow the Jupyter Notebook to display automatically (assu
 
 <details><summary>How to view Jupyter Notebooks using NBViewer</summary>
 NBViwer renders Jupyter Notebook, so they are accessible via a URL. The cells cannot be interacted with as in a live Jupyter Notebook. 
-- The scikit-learn notebook is available on NBViewer via this link
-- The scipy.stats notebook is available on NBViewer via this link
+  
+- The scikit-learn notebook is available on NBViewer by clicking this badge [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scikit-learn.ipynb)
+  
+- The scipy.stats notebook is available on NBViewer by clicking this badge [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scipy-stats.ipynb)
+  
 </details>
 <br>
 
 <details><summary>How to view Jupyter Notebooks using Binder</summary>
 Binder hosts Jupyter Notebooks online, allowing users to still interact with the cells as in a live notebook. 
- - The scikit-learn notebook is available on Binder via this link
- - The scipy.stats notebook is available on Binder via this link
+  
+ - The scikit-learn notebook is available on Binder by clicking this badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SharonNicG/52954-Machine-Learning-and-Statistics/HEAD?labpath=https%3A%2F%2Fgithub.com%2FSharonNicG%2F52954-Machine-Learning-and-Statistics%2Fblob%2Fmain%2Fscikit-learn.ipynb)
+  
+ - The scipy.stats notebook is available on Binder by clicking this badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SharonNicG/52954-Machine-Learning-and-Statistics/HEAD?labpath=https%3A%2F%2Fgithub.com%2FSharonNicG%2F52954-Machine-Learning-and-Statistics%2Fblob%2Fmain%2Fscipy-stats.ipynb)
+  
 </details>
 <br>
 
