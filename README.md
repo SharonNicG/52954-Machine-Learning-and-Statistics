@@ -1,5 +1,8 @@
 # Machine Learning and Statistics Assessment
 
+<p align="center">
+  <img src="https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/Images/C_Twisted_Doodles.png" />
+</p>
 
 ![image](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/Images/C_Twisted_Doodles.png) 
 <br>
@@ -17,7 +20,6 @@ This repository comprises two Jupyter Notebooks and the associated files require
  - [Data](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/tree/main/Data) - contains the [Housing dataset](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/Data/housing.csv) used for the [scikit-learn notebook](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scikit-learn.ipynb) and the [Diet dataset]() used for the [scipy-stats notebook]( https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scipy-stats.ipynb)
  - [Images]() -  Contains the images used here and in the two Jupyter Notebooks. 
  - [Files](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/assessment.pdf) - contains a pdf of the assessments requirements and marking scheme
-<br>
 <br>
 
 ***
@@ -41,7 +43,7 @@ Depending on the objective of the regression modelling, that may suffice. But un
 The [scikit-learn notebook](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scikit-learn.ipynb) has three main areas
  - Overview of the [scikit-learn library](https://scikit-learn.org/stable/)
  - A review of the [dataset](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/housing.csv) to be used
- - Execution of the three (3) regression algorithms
+ - Execution of the three regression algorithms
  
 My research demonstrated several ways to complete each type of regression analysis. Some applied one or two regression algorithms and compared the accuracy of the results. However, the majority made an initial comparison of the accuracy of numerous regression algorithms and then proceeded with one or two for complete modelling. Both are presented here - showing the difference in code and replicating real-life applications.
 <br>
