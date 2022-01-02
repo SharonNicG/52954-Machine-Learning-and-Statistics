@@ -152,6 +152,9 @@ Binder hosts Jupyter Notebooks online, allowing users to still interact with the
  - K-Nearest Neighbour Image <a href="https://www.datacamp.com">Datacamp</a> at <a href="https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn">https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn/</a>.
  - Linear Regression Image <a href="https://www.analyticsvidhya.com/">Analytics Vidya</a> at <a href="https://www.analyticsvidhya.com/blog/2021/05/5-regression-algorithms-you-should-know-introductory-guide/g">https://www.analyticsvidhya.com/blog/2021/05/5-regression-algorithms-you-should-know-introductory-guide/</a>.
  - Decision Tree Image <a href="https://www.javatpoint.com/">Java Point</a> at <a href="https://www.javatpoint.com/machine-learning-decision-tree-classification-algorithm">https://www.javatpoint.com/machine-learning-decision-tree-classification-algorithm/</a>.
+  - SciPy Logo <a href="https://commons.wikimedia.org">WikiMedia</a> at <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/480px-SCIPY_2.svg.png">https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/480px-SCIPY_2.svg.png</a>.
+  - Diet Dataset Photo <a href="https://unsplash.com/@dbtownsend?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">David B Townsend</a> on <a href="https://unsplash.com/s/photos/positive-diet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
  - As with so many of my projects, I have relied upon the faithful users of [StackOverflow](https://stackoverflow.com/). Where relevant, StackOverflow pages are cited in the reference section of the notebooks. But for resolutions to minor issues (that may have derailed me for hours) and for the comfort in knowing someone else has made the same mistake, I thank them. 
 <br>
 
