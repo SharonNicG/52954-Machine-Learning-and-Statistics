@@ -17,9 +17,9 @@ This repository comprises two Jupyter Notebooks and the associated files require
  - [scikit-learn.ipynb](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scikit-learn.ipynb) - A Jupyter Notebook providing an overview of the scikit-learn Python library and demonstrations of 3 machine learning algorithms the library offers. 
  - [scipy-stats.ipynb](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scipy-stats.ipynb) - A Jupyter Notebook providing an overview of the scipy-stats Python library and demonstrations its uses using ANOVA to test a hypothesis. 
  - [requirements.txt](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/requirements.txt) - containing information of the libraries, modules, packages and files needed to run the Jupyter notebooks with minimal configuration
- - [Data](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/tree/main/Data) - contains the [Housing dataset](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/Data/housing.csv) used for the [scikit-learn notebook](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scikit-learn.ipynb) and the [Diet dataset]() used for the [scipy-stats notebook]( https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scipy-stats.ipynb)
- - [Images]() -  Contains the images used here and in the two Jupyter Notebooks. 
- - [Files](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/assessment.pdf) - contains a pdf of the assessments requirements and marking scheme
+ - [Data](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/tree/main/Data) - contains the [Housing dataset](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/Data/housing.csv) used for the [scikit-learn notebook](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scikit-learn.ipynb) and the [Diet dataset](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/Data/Diet.csv) used for the [scipy-stats notebook](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scipy-stats.ipynb).
+ - [Images](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/tree/main/Images) -  Contains the images used here and in the two Jupyter Notebooks. 
+ - [Files](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/assessment.pdf) - contains a pdf of the assessment's requirements and marking scheme.
 <br>
 
 ***
@@ -27,7 +27,7 @@ This repository comprises two Jupyter Notebooks and the associated files require
 ## [scikit-learn notebook](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scikit-learn.ipynb)
 <br>
 
-The [scikit-learn notebook](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scikit-learn.ipynb) provides an overview of the [scikit-learn Python library](https://scikit-learn.org/stable/) and examines three of its algorithms - [Linear Regression](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.linear_model), [Decision Tree Regression](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html#sklearn.tree.DecisionTreeRegressor) and [K - Nearest Neighbours](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html#sklearn.neighbors.KNeighborsRegressor).
+The [scikit-learn notebook](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scikit-learn.ipynb) provides an overview of the [scikit-learn Python library](https://scikit-learn.org/stable/) and examines three algorithms - [Linear Regression](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.linear_model), [Decision Tree Regression](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html#sklearn.tree.DecisionTreeRegressor) and [K - Nearest Neighbours](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html#sklearn.neighbors.KNeighborsRegressor).
 <br>
 
 ### *Challenges:*
@@ -57,11 +57,11 @@ It is beyond the scope of the assessment, but I would like to demonstrate each a
 <br>
 
 The [scipy-stats notebook](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scipy-stats.ipynb) provides an overview of the [scipy.stats Python library]( https://docs.scipy.org/doc/scipy/reference/stats.html).
-The library is then used to complete a hypothesis test using [ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)
+The library is then used to complete a hypothesis test using [ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html).
 <br>
 
 ### *Challenges:*
-Similar to the selection process for the scikit-learn algorithms, it was essential to identify an appropriate dataset for the ANOVA test. And, to understand the purpose of the ANOVA test to be completed: one-way, two-way or repeated measures etc. The dataset selected offered the potential for one-way and two-way ANOVA tests to satisfy the assumptions underlying ANOVA based on the research question identified.
+Similar to the selection process for the scikit-learn algorithms, it was essential to identify an appropriate dataset for the ANOVA test. And, to understand the purpose of the ANOVA test to be completed: one-way, two-way or repeated measures etc. Therefore, the dataset selected offered the potential for one-way and two-way ANOVA tests to satisfy the assumptions underlying ANOVA based on the research question identified.
 
 I found the most challenging part of this problem was visually representing the outcomes of the test. The statistical output of the test is very informative, but visualisations of the test outputs would make it more accessible to readers.
 <br>
@@ -69,14 +69,14 @@ I found the most challenging part of this problem was visually representing the 
 ### *Presentation:*
 The [scipy-stats notebook]( https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/scipy-stats.ipynb) has two main areas
  - Overview of the [scipy.stats Python library](https://docs.scipy.org/doc/scipy/reference/stats.html)
- - Testing of a hypothesis using the [Diet dataset] (https://www.sheffield.ac.uk/polopoly_fs/1.570199!/file/stcp-Rdataset-Diet.csv) and ANOVA testing.
+ - Testing a hypothesis using the [Diet dataset](https://github.com/SharonNicG/52954-Machine-Learning-and-Statistics/blob/main/Data/Diet.csv) and ANOVA testing.
 
 A new variable is created to facilitate the ANOVA test, and descriptive statistical analysis and analysis of interactions between three variables are completed.
 <br>
 
 ### *Further Research:*
 While I didn't get to it during this project, I would like to complete more analysis on this dataset.
-First, using a t-test to verify if participants lose weight. Second using [ANCOVA]( https://stackoverflow.com/questions/2916760/ancova-in-python-with-scipy-numpy-stats). ANCOVA looks for statistically significant difference (covariance) between the means of 3 or more variables. This dataset would be suitable for that analysis(https://www.statology.org/ancova-python/). 
+First, using a t-test to verify if participants lose weight. Second, using [ANCOVA]( https://stackoverflow.com/questions/2916760/ancova-in-python-with-scipy-numpy-stats). ANCOVA looks for statistically significant difference (covariance) between the means of 3 or more variables. This dataset would be suitable for that analysis(https://www.statology.org/ancova-python/). 
 <br>
 ***
 
@@ -138,7 +138,7 @@ NBViwer renders Jupyter Notebook, so they are accessible via a URL. The cells ca
 </details>
 <br>
 
-<details><summary>How to view Jupyter Notebooks using Binkder</summary>
+<details><summary>How to view Jupyter Notebooks using Binder</summary>
 Binder hosts Jupyter Notebooks online, allowing users to still interact with the cells as in a live notebook. 
  - The scikit-learn notebook is available on Binder via this link
  - The scipy.stats notebook is available on Binder via this link
@@ -146,14 +146,14 @@ Binder hosts Jupyter Notebooks online, allowing users to still interact with the
 <br>
 
 ## Credits
- - Statiics Illustration <a href="https://twitter.com/twisteddoodles">Twisted Doodles</a> at <a href="https://twitter.com/twisteddoodles/status/960801583012380672">twitter.com/twisteddoodles/</a>.
- - Boston landscape photo <a href="https://unsplash.com/@michaelwb?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Browning</a> on <a href="https://unsplash.com/s/photos/boston?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
+ - Statistics Illustration <a href="https://twitter.com/twisteddoodles">Twisted Doodles</a> at <a href="https://twitter.com/twisteddoodles/status/960801583012380672">twitter.com/twisteddoodles/</a>.
+  - Scikit-learn Logo <a href="https://commons.wikimedia.org">WikiMedia</a> at <a href="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg">https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg</a>.
+ - Boston Landscape Photo <a href="https://unsplash.com/@michaelwb?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Browning</a> on <a href="https://unsplash.com/s/photos/boston?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
+ - K-Nearest Neighbour Image <a href="https://www.datacamp.com">Datacamp</a> at <a href="https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn">https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn/</a>.
+ - Linear Regression Image <a href="https://www.analyticsvidhya.com/">Analytics Vidya</a> at <a href="https://www.analyticsvidhya.com/blog/2021/05/5-regression-algorithms-you-should-know-introductory-guide/g">https://www.analyticsvidhya.com/blog/2021/05/5-regression-algorithms-you-should-know-introductory-guide/</a>.
+ - Decision Tree Image <a href="https://www.javatpoint.com/">Java Point</a> at <a href="https://www.javatpoint.com/machine-learning-decision-tree-classification-algorithm">https://www.javatpoint.com/machine-learning-decision-tree-classification-algorithm/</a>.
  - As with so many of my projects, I have relied upon the faithful users of [StackOverflow](https://stackoverflow.com/). Where relevant, StackOverflow pages are cited in the reference section of the notebooks. But for resolutions to minor issues (that may have derailed me for hours) and for the comfort in knowing someone else has made the same mistake, I thank them. 
 <br>
-
-## References
-1. [Jupyter - Installing Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
-2. [Jupyter - nbviewer](https://nbviewer.jupyter.org/)
 
 ***
 # End
